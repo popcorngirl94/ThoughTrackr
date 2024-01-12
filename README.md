@@ -1,0 +1,1 @@
+ThoughTrackr, a Digital Journal Tracker App involves providing users with insightful and informative feedback derived from the analysis of their journal entries. The primary aim is to offer users a clear understanding of the emotional tone, sentiment, and trends within their writing.
